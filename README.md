@@ -10,10 +10,6 @@
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/andersevenrud)
 [![Community](https://img.shields.io/badge/join-community-green.svg)](https://community.os-js.org/)
 
-## Introduction
-
-This is the OS.js base repository that you can use as a template to make your own distributions, installations and development environments.
-
 ## Try it yourself
 
 Visit the [official demo](https://demo.os-js.org/v3/) for a preview version. Please note that some features are disabled and might be outdated or unavailable at times.

@@ -16,8 +16,6 @@ Visit the [official demo](https://demo.os-js.org/v3/) for a preview version. Ple
 
 ![ScreenShot](https://www.os-js.org/screenshot.png)
 
-## Installation
-
 > OS.js runs on `http://localhost:8000` by default.
 
 ### Demo

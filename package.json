@@ -4,6 +4,7 @@
   "description": "OS.js v3",
   "main": "index.js",
   "scripts": {
+    "start": "npm run build && npm run package:discover -- --copy && node src/server/index.js",
     "test": "npm run eslint && npm run stylelint",
     "eslint": "eslint 'src/client/**/*.js' 'src/server/**/*.js'",
     "stylelint": "stylelint 'src/client/*.scss'",

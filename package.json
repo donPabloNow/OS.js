@@ -26,12 +26,10 @@
   ],
   "author": "Anders Evenrud <andersevenrud@gmail.com>",
   "license": "BSD-2-Clause",
-  "devDependencies": {
+  "dependencies": {
     "@osjs/dev-meta": "^1.1.1",
     "html-webpack-plugin": "^3.2.0",
-    "source-map-loader": "^0.2.4"
-  },
-  "dependencies": {
+    "source-map-loader": "^0.2.4",
     "@osjs/calculator-application": "^1.2.8",
     "@osjs/cli": "^3.0.24",
     "@osjs/client": "^3.1.33",

@@ -1,5 +1,5 @@
 const path = require('path');
-const mode = process.env.NODE_ENV || 'development';
+const mode = 'production';
 const minimize = mode === 'production';
 const webpack = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');

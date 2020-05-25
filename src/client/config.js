@@ -36,9 +36,6 @@
 
 export default {
   standalone: true,
-  packages: {
-    metadata
-  },
   auth: {
     login: {
       username: 'demo',
